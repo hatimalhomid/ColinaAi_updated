@@ -5,7 +5,7 @@ ColinaAI is an AI-powered action recognition system for boxing, built from scrat
 🛠️ Technologies Used
 Deep Learning: Custom-built network based on I3D
 Pose Estimation: Integrated for enhanced action recognition
-Frameworks: TensorFlow, PyTorch
+Frameworks: TensorFlow, scikit learn 
 Data Processing: OpenCV, NumPy
 🚀 Getting Started
 1️⃣ Clone the repository:
